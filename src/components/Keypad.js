@@ -13,3 +13,5 @@ class Keypad extends React.component {
     }
   }
 }
+
+export default Keypad;
